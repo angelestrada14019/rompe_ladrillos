@@ -2,7 +2,7 @@ import { Ball } from './ball';
 import { Brick } from './brick';
 
 export class Wall {
-    static readonly BRICKS_PER_ROW: number = 5;
+    static readonly BRICKS_PER_ROW: number = 8;
     static readonly NUM_ROWS: number = 3;
     static readonly GAP: number = 5;
     
